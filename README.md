@@ -25,13 +25,20 @@ date: 2022.04.25
 김영빈 박현지
 
 ---
-
+ 
 ## 🍻 적용 기술 및 구현 기능
 
 ### 적용기술
 
 > Front: React, scss  
 > Back: Python,Django
+
+## 🍻 협업 툴
+
+<img width="1175" alt="스크린샷 2022-05-07 오후 6 06 57" src="https://user-images.githubusercontent.com/94230809/167247479-75635988-0a77-453b-ada1-183591507e21.png">
+- 트렐로를 사용하여 작업 전, 중 ,후 를 나누고 컨벤션 및 백엔드와 데이터내용(키값) 등을 공유하였습니다. 
+<img width="1134" alt="스크린샷 2022-05-07 오후 6 08 52" src="https://user-images.githubusercontent.com/94230809/167247550-1cdd9859-1d4a-49b5-a97d-4ba13e902d9a.png">
+- 노션을 통해 매일 아침 30분가량의 스탠드업 미팅 회의록을 정리했습니다.
 
 
 ## 🍻 내가 맡은 부분
